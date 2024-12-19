@@ -1,0 +1,14 @@
+Source: firmware-saa716x
+Section: media
+Priority: optional
+Maintainer: Marcel Jueling <Marcel.Jueling@gmx.de>
+Build-Depends: debhelper-compat (= 10)
+Standards-Version: 4.3
+Homepage: https://www.jueling.de/vdr
+
+Package: firmware-saa716x
+Architecture: all
+Depends: ${misc:Depends}
+Conflicts: tts2-6400, saa716x+firmware-dkms
+Description: Firmware for TT S2-6400 Twin HD
+ This package contains the firmware for the TT Premium S2-6400 Twin HD TV card.

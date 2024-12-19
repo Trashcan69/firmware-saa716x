@@ -1,0 +1,3 @@
+lib/firmware/technotrend/dvb-ttpremium-fpga-01.fw	lib/firmware/dvb-ttpremium-fpga-01.fw
+lib/firmware/technotrend/dvb-ttpremium-loader-01.fw	lib/firmware/dvb-ttpremium-loader-01.fw
+lib/firmware/technotrend/dvb-ttpremium-st7109-01.fw	lib/firmware/dvb-ttpremium-st7109-01.fw
